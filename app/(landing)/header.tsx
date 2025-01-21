@@ -14,7 +14,7 @@ export const Header = () => {
   return (
     <header className="h-20 w-full border-b-2 border-slate-200 px-4">
       <div className="h-full mx-auto flex items-center justify-between lg:max-w-screen-lg">
-        <div className="pt-8 pl-4 flex items-center gap-x-3">
+        <div className="pt-2 pl-4 flex items-center gap-x-3">
           <Image
             src="/dva-linga-logo.svg"
             width={80}
